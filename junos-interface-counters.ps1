@@ -1,4 +1,4 @@
-#Sensors -> Settings -> Parameters, ex. '%host' '$name'
+#Sensors -> Settings -> Parameters, ex. '%host' '%name'
 Param ($Device, $Sensor)
 
 #Fast Ethernet, Gigabit Ethernet, and 10 Gigabit Ethernet interfaces are supported by the expression
